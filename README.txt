@@ -1,4 +1,4 @@
-# Gerenciador de Tarefas - Streamlit
+## Gerenciador de Tarefas - Streamlit
 
 ## Descrição
 Este projeto é um painel interativo para monitoramento de uso de CPU, memória, disco e processos do sistema em tempo real, usando Streamlit e psutil.
